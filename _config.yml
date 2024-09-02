@@ -26,9 +26,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Fuzhou University"
   location         : "China Fuzhou"
-  employer         : "Red Brick University"
+  employer         : #"Red Brick University"
   uri              : # https://zaohuan.github.io
-  email            : "none@example.org" 
+  email            : #"none@example.org" 
 
    Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           :# "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
    Repositories and software development
